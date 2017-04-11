@@ -1,13 +1,13 @@
-![Pencil logo](https://github.com/syndicatefx/Pencil/blob/master/assets/logo.png?raw=true) Pencil 2.0
+![Pencil 2.0 logo](https://github.com/MrGKanev/Pensil-2.0/blob/master/assets/logo.png?raw=true) Pencil 2.0
 ======
 
 A Simple flat-file blog exercise built with plain(procedural) php, no funky frameworks, no fussy builds or installs. And, it comes with a super easy admin panel to edit, delete, create posts and upload images.
 
 The original code isn't my work and it is a fork from syndicatefx's work on Pencil. I wanted to make some huge changes that is why this project was started. 
 
-##Screenshot (admin panel)
+##Screenshot 
 
-<img src="https://dl.dropboxusercontent.com/u/26469456/pencil.jpg">
+![Pencil 2.0 screenshot](https://github.com/MrGKanev/Pensil-2.0/blob/master/screenshot/screenshot.png?raw=true)
 
 ##Install
 
