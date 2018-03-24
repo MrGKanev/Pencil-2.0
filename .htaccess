@@ -3,3 +3,6 @@ RewriteCond %{REQUEST_FILENAME} -f
 RewriteRule ^(.*) $1 [L]
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ view.php?name=$1 [L]
+
+# Better save then sorry later. Now it can't upload php, rb and py files. 
+RewriteRule ^uploads/.*\.(php|rb|py)$ - [F,L,NC]
