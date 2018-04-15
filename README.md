@@ -24,7 +24,6 @@ The original code isn't my work and it is a fork from syndicatefx's work on Penc
 - Lightweight WYSIWYG to edit and create new posts, a modified version of [Trumbowyg](http://alex-d.github.com/Trumbowyg).
 - Pagination happens on client side built using [jPages](http://luis-almeida.github.com/jPages) jquery plugin.
 =======
->>>>>>> parent of 3c2daac... Yep still shit
 - No database needed, posts are stored as html in .txt files.
 
 ##Things to remember:
@@ -38,7 +37,6 @@ The original code isn't my work and it is a fork from syndicatefx's work on Penc
 - Enable public read+write permissions to "posts/" and "media/"  folders. (chmod 755 or 777)
 =======
 - Enable public read+write permissions to "posts/" and "media/"  folders. (chmod 755 or 777) - For the posts you write and the images you upload.
->>>>>>> parent of 3c2daac... Yep still shit
 
 ##Bugs:
 
@@ -74,4 +72,3 @@ This project also uses many other open source libraries such as:
 ##License
 
 Pensil 2.0  is under the [The MIT License](https://github.com/MrGKanev/Pensil-2.0/blob/master/LICENSE).
->>>>>>> parent of 3c2daac... Yep still shit
