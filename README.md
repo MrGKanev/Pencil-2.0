@@ -61,6 +61,6 @@ This project also uses many other open source libraries such as:
     </tr>
 </table>
 
-##License
+## License
 
 Pencil 2.0  is under the [The MIT License](https://github.com/MrGKanev/Pencil-2.0/blob/master/LICENSE).
